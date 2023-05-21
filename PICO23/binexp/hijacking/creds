@@ -1,0 +1,7 @@
+SSH is running on the server.
+
+saturn.picoctf.net 64738
+Username: picoctf
+Password: g9JyzMCWpU
+
+ssh -p 57684 picoctf@saturn.picoctf.net
