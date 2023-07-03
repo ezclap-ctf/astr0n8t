@@ -7,6 +7,7 @@ for x in range(len(a)):
     chars = [a[x], b[x], c[x]]
     uniq = list(set(chars))
     if len(uniq) == 1:
+        d += uniq[0]
         continue
     if chars.count(uniq[0]) == 1:
         d += uniq[0]
