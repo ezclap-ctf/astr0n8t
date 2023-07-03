@@ -1,0 +1,3 @@
+ctrl+r
+=execute("edit flag.txt")
+uiuctf{ctr1_r_1s_h4ndy_277d0fde079f49d2}
